@@ -1,6 +1,6 @@
 # Hello there 👋
 
-Welcome to my GitHub! 🌱 My name is Mesakh Kristia Hartono, I am a Fullstack Engineer and currently studying as fullstack Engineer. I'm from Indonesa. Let's connect on LinkedIn https://www.linkedin.com/in/mesakh-hartono-58975b59/
+Welcome to my GitHub! 🌱 My name is Mesakh Kristia Hartono, I am a Junior Developer. I'm from Indonesa. Let's connect on LinkedIn https://www.linkedin.com/in/mesakh-hartono-58975b59/
 
 ![My Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
